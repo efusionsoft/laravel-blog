@@ -5,14 +5,12 @@
     "authors": [
         {
             "name": "Abhishek Jha",
-            "email": "lalitesh@live.com"
+            "email": "lalitesh@live.com",
+	    "homepage": "http://www.techpartner.co"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
-    
-     "require-dev": {
-        "baum/baum": "~1.1",
+    ],   
+    "require": {
+	"baum/baum": "~1.1",
 	"intervention/image": "dev-master"
     }
 }
