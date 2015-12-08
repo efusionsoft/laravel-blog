@@ -14,5 +14,5 @@
      "require-dev": {
         "baum/baum": "~1.1",
 	"intervention/image": "dev-master"
-    },
+    }
 }
